@@ -4,7 +4,7 @@ O protocolo MQTT (**Transporte de Telemetria de Enfileiramento de Mensagens) ou 
 
 Neste projeto o objetivo é montar um servidor broker MQTT, afim de criar uma rede que irá se conectar a outras máquinas locais que não se conhecem, utilizando dos conhecimentos já adquiridos em aula. 
 
-![image.png](attachment:f67e38d5-7fb2-4c10-b8ed-8acc8a7a9096:image.png)
+https://www.notion.so/Projeto-IOT-RASPBERRY-1cb9f01e64b880fba949cba8da9d14fe?pvs=4#1e09f01e64b880d98fbbcde3e3c4657d
 
 ## O que é pub/sub ?
 
