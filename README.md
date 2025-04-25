@@ -302,3 +302,8 @@ Serial.println("Mensagem publicada: ligar_led");
 ---
 
 ## REFERÊNCIAS:
+https://github.com/MrFMach/Esp32-MQTT-PubSub/blob/main/media/Image.jpeg
+https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker#introduction
+https://forums.raspberrypi.com/viewtopic.php?t=260851
+https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
+https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
